@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chandraharshtimkikar-hub3220/leet-code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/chandraharshtimkikar-hub3220/leet-code/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/chandraharshtimkikar-hub3220/leet-code/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/chandraharshtimkikar-hub3220/leet-code/tree/master/0735-asteroid-collision) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/chandraharshtimkikar-hub3220/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
@@ -62,9 +63,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/chandraharshtimkikar-hub3220/leet-code/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraharshtimkikar-hub3220/leet-code/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/chandraharshtimkikar-hub3220/leet-code/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraharshtimkikar-hub3220/leet-code/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
